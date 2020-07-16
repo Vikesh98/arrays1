@@ -1,2 +1,2 @@
 # arrays1
-basic programs on arrays
+frequency of an array
